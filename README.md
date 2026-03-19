@@ -81,4 +81,4 @@ This tool only targets cache files, but you are responsible for ensuring you can
 
 ## License
 
-MIT License — free to use, modify, and distribute.
+MIT License, free to use, modify, and distribute.
