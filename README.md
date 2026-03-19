@@ -6,3 +6,6 @@ DISCLAIMER: dont be worried if you get logged out after the launcher successfull
 i recommend installing the steam app on your phone and logging into your account by scanning the qr code on your screen
 
 if you didnt read this, its not my fault that you are having trouble recovering your account, i am not responsible for your acts using this application
+
+
+this project was coded mostly in python and is therefore required to do changes using admin rights on the pc
